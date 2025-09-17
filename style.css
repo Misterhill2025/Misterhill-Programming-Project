@@ -27,3 +27,10 @@ p {
 .copyright {
   font-size: 10pt;
 }
+
+.btn-lg {
+    --bs-btn-padding-y: 1rem;
+    --bs-btn-padding-x: 1rem;
+    --bs-btn-font-size:1.25rem: 1.25rem;
+    --bs-btn-border-radius: 2rem;
+}
