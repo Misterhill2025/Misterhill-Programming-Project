@@ -1,4 +1,4 @@
-img {
+#profile-img {
   border-radius: 50%;
 }
 
@@ -10,6 +10,7 @@ img {
 h1 {
   font-size: 88pt;
 }
+
 .lead {
   font-size: 1rem;
 }
@@ -33,4 +34,14 @@ p {
     --bs-btn-padding-x: 1rem;
     --bs-btn-font-size:1.25rem: 1.25rem;
     --bs-btn-border-radius: 2rem;
+}
+
+.slide-img {
+  border-radius: 16px;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
 }
